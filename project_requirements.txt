@@ -1,0 +1,6 @@
+1: 4-digit seven segment display
+2: small OLED for text
+3: 4 buttons for interactivity
+4: BMS
+5: dual rechargeable/Lithium for rundundancy
+
